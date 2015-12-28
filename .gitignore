@@ -1,0 +1,9 @@
+# for jetbrains ide
+.idea
+
+# for python
+*.pyc
+__pycache__
+
+# for vim
+*~
